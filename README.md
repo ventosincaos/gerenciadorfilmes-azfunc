@@ -24,5 +24,5 @@ Este projeto implementa um gerenciador de filmes utilizando Azure Functions. As 
 
 ## Como Executar
 1. **Pré-requisitos**:
-   - Ter o [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local) instalado.
-   - Instalar o [.NET Core SDK](https://dotnet.microsoft.com/download).
+   - [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local)
+   - [.NET Core SDK](https://dotnet.microsoft.com/download)
